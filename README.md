@@ -1,6 +1,6 @@
 ## Welcome to My Page
 
-A simple windows GUI application which helps any school management to record details of its teachers, classes and its students. The details can only be seen by the registered admins.
+A simple windows GUI application which helps any school management to record details of its teachers, classes and its students. The data saved in application is secured and can only be seen by the registered admins.
 
 ## Please click on "View on GitHub" button above to access project files on the gitHub website.
 
